@@ -1,0 +1,15 @@
+body{
+	background-color: #191F21;
+	color: #544366;
+	font-family: Arial;
+}
+.start{
+	background-image: url(..image/bb4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.start h1{
+	border-top: 2px solid #ffffff;
+	border-bottom: 2px solid #ffffff;
+
+}

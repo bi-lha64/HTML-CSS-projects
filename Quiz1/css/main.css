@@ -1,0 +1,45 @@
+body{
+	background-color:blue;
+	width:900px;
+	height: 2590px;
+	padding: 20px;
+	margin:30px 20px;
+	border: 10px black solid;
+	width-color:black;
+    border-style:10px; 
+    font-family: Brush Script std;
+    font-size:24px ;
+    background: url(images/goat.jpg)center;
+    box-shadow: #0000000;
+    background-position: bottom;
+}
+}
+h1{
+	background-color:purple;
+	border-width: 40px;
+	border-style:solid;
+	padding: 20px;
+	text-align: center;
+	font-style: normal;
+
+}
+<h1 id="sample">sample</h1>{
+}
+.blue-panel{
+	background-color: blue;
+	border-width:200px;
+	margin:auto;
+	padding: 40px;
+	border-style:normal;
+	
+}
+.kenya-panel{
+	background-color: blue;
+	border-width:300px;
+	margin:auto;
+
+}
+
+
+
+

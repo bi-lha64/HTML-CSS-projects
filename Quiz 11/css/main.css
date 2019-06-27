@@ -1,0 +1,293 @@
+
+
+body{
+    background-color: #ccc;
+    height: 9000px;
+    width: 1600px;
+    margin: 0 auto;
+    
+    
+}
+.background{
+    
+    
+    text-align: center;
+    font-family: vrinda;
+    font-size: 24px;
+    line-height: 20px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+hr{
+    width: 670px;
+}
+.background a{
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    font-size: 14px;
+    font-family: vrinda;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+    
+}
+.contentone{
+    height: 820px;
+    background-color: #eaebed;
+    
+}
+header{
+    width: 1200px;
+    height: 70px;
+    background-color: #1e272b;
+}
+.contentone header ul li{
+    display: inline;
+    padding-left: 40px;
+    text-decoration: none;
+    overflow: auto;
+}
+.contentone header ul{
+    padding-left: 300px;
+    padding-top: 25px;
+    margin-top: 20px;
+}
+.contentone header ul li a{
+    text-decoration: none;
+    color: white;
+}
+.sall{
+    width: 1200px;
+    height: 250px;
+    background-color: white;
+    
+    
+    
+}
+.values{
+    width: 33.33%;
+    height: 250px;
+    float: left;
+}
+.values h3{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.values p{
+    padding-left: 100px;
+    padding-top: 20px;
+    margin-right: 30px;
+}
+.goals{
+    width: 33.33%;
+    height: 250px;
+    float: left;
+}
+.goals h3{
+    padding-top: 30px;
+}
+.goals p{
+    margin-right: 30px;
+    padding-top: 20px;
+}
+.hobbies{
+    width: 33.33%;
+    height:250px;
+    float: left;
+}
+.hobbies h3{
+    padding-top: 30px;
+}
+.hobbies p{
+    margin-right: 100px;
+    padding-top: 20px;
+}
+.imgtwo{
+    height: 500px;
+    width: 420px;
+    background-color: white;
+    float: left;
+}
+.about{
+    width: 650px;
+    height: 200px;
+    /*background-color: pink;*/
+    float: left;
+    margin-top: 35px;
+    margin-left: 60px;
+}
+.one{
+    height: 100px;
+    width: 340px;
+    /*background-color: yellow;*/
+    float: left;
+    margin-left: 100px;
+}
+.two{
+    height: 100px;
+    width: 310px;
+    /*background-color: violet;*/
+    float: left;
+    margin-left: 20px;
+}
+.three{
+    height: 100px;
+    width: 340px;
+    /*background-color: blue;*/
+    float: left;
+    margin-left: 100px;
+}
+.four{
+    height: 100px;
+    width: 310px;
+    /*background-color: white;*/
+    float: left;
+    margin-left: 20px;
+}
+.contenttwo{
+    width: 1200px;
+    height: 650px;
+    background-color: #fff;
+}
+.boxone{
+    width: 540px;
+    height: 320px;
+    /*background-color: pink;*/
+    float: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+.boxone a{
+    text-decoration: none;
+    background-color: transparent;
+    color: green;
+    border: 1px solid green;
+    font-size: 14px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    /*
+}
+.boxtwo{
+    width: 550px;
+    height: 320px;
+    /*background-color: orange;*/
+    float: left;
+    margin-top: 40px;
+}
+.photoshopbox{
+    width: 400px;
+    height: 22px;
+    margin-top: 20px;
+    background-color: #eaebed;
+}
+.photoshop{
+    width: 90%;
+    height: 21px;
+    background-color: #1cc958;
+    text-align: right;
+    padding-top: 1px;
+}
+.illustratorbox{
+    width: 400px;
+    height: 22px;
+    margin-top: 20px;
+    background-color: #eaebed;
+}
+.illustrator{
+    width: 70%;
+    height: 21px;
+    background-color: #1cc958;
+    text-align: right;
+    padding-top: 1px;
+}
+.htmlbox{
+    width: 400px;
+    height: 22px;
+    margin-top: 20px;
+    background-color: #eaebed;*/
+}
+.html{
+    width: 60%;
+    height: 21px;
+    background-color: #1cc958;
+    text-align: right;
+    padding-top: 1px;
+}
+.resume{
+    width: 1200px;
+    height: 290px;
+    background-color: #ccc;
+    float: left;
+    /*margin-left: 100px;*/
+    
+    /*padding-left: 100px auto;*/
+    
+    /*margin-left: 20px;*/
+}
+.resumee{
+    text-align: center;
+    margin-top: 50px;
+    /*background-color: red;*/
+    margin-left: 100px;
+    margin-right: 100px;
+}
+/*.resume{
+    
+}*/
+.resume a{
+    text-decoration: none;
+    background-color: transparent;
+    color: green;
+    border: 1px solid green;
+    font-size: 14px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    
+}
+.contentfour{
+    width: 1200px;
+    height: 1480px;
+    background-color: yellow;
+}
+.eduone{
+    width: 510px;
+    height: 300px; 
+    background-color: orange;
+    float: left;
+    margin-left: 90px;
+    margin-top: 60px;
+}
+.edutwo{
+    width: 510px;
+    height: 300px; 
+    background-color: pink;
+    float: left;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.eduthree{
+    width: 510px;
+    height: 300px; 
+    background-color: pink;
+    float: left;
+    margin-left: 90px;
+}
+.edufour{
+    width: 510px;
+    height: 300px; 
+    background-color: orange;
+    float: left;
+}
